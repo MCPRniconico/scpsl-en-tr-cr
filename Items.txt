@@ -12,10 +12,10 @@
 11~O5-level Keycard
 12~Radio
 13~COM-15
-14~First Aid Kit~Heals your injuries.
+14<color=#FFD800>~First Aid Kit</color>~Heals your injuries.❤️
 15~Flashlight~Let there be light!
 16~Micro H.I.D.~Mobile high-intensity electrical discharge thrower.
-17~SCP-500~The panacea.
+17~<color=#FF0000>💊SCP-500💊</color>~The panacea.\n<color=#008000>+100HP</color>
 18~SCP-207~Harmfully increases motor skills.
 20~MTF-E11-SR
 21~Crossvec
