@@ -2,7 +2,6 @@
 🍬Rainbow Candy🍬
 Its a hard piece of rock candy, packed with all sorts of flavours.
 Grants a large number of small bonuses, including health regeneration, invigoration, and AHP.\<color=#07f72b>+40AHP+15HP</color>
-🍬Purple Candy🍬
 🍬Yellow Candy🍬
 The overwhelming smell of lemon makes you cringe a little.
 Allows you to move faster and sprint longer for a short period of time.\n<color=#07f72b>Movement speed +10% 8s</color>
