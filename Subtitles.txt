@@ -5,21 +5,21 @@ Termination cause unspecified.
 terminated by SCP-[scp].
 successfully terminated by Tesla Gate
 successfully terminated by Alpha Warhead.
-contained by:<color=#FFFF7F>Science Personnel.</color>
-contained by:<color=#FF8E00>Class-D Personnel.</color>
-contained by:<color=#008F1E>C.Insurgency.</color>
+contained by:\n<color=#FFFF7F>Science Personnel.</color>
+contained by:\n<color=#FF8E00>Class-D Personnel.</color>
+contained by:\n<color=#008F1E>C.Insurgency.</color>
 SCP-[scp]
 Containment unit unknown.
-Containment Unit <color=#0096FF>[designation].</color>
+Containment Unit \n<color=#0096FF>[designation].</color>
 lost in Decontamination Sequence.
-<color=#0096FF>[current]</color>/<color=#DC143C>[max]</color> generators activated.
+<color=#0096FF>[current]</color>/\n<color=#DC143C>[max]</color> generators activated.
 <split>All generators have been successfully engaged.
 Overcharge in 3... 2... 1...
 Facility is back in operational mode.
 LCZ decontamination in<color=#00B379>T-15</color> minutes.
-LCZ decontamination in T-<color=#F4E511>[time]</color> minutes.
-LCZ decontamination in <color=#F58220>T-1</color> minute.
-LCZ decontamination in<color=#ff0000>T-30</color> seconds.
+LCZ decontamination in T-\n<color=#F4E511>[time]</color> minutes.
+LCZ decontamination in \n<color=#F58220>T-1</color> minute.
+LCZ decontamination in \n<color=#ff0000>T-30</color> seconds.
 LCZ is locked down decontamination and ready for decontamination
 ALPHA WARHEAD EMERGENCY DETONATION SEQUENCE ENGAGED.<split>THE UNDERGROUND SECTION OF THE FACILITY WILL BE DETONATED IN T-[time] SECONDS.
 DETONATION CANCELLED. RESTARTING SYSTEMS.
