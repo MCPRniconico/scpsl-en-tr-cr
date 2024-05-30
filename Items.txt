@@ -2,12 +2,12 @@
 1~Scientist Keycard
 2~Research Supervisor Keycard
 3~Zone Manager Keycard
-4~Guard Keycard
-5~MTF Private Keycard
+4~\n<color=5B6370>Guard Keycard</color>
+5~\n<color=70C3FF>MTF Private Keycard</color>
 6~Containment Engineer Keycard
-7~MTF Operative Keycard
-8~MTF Captain Keycard
-9~Facility Manager Keycard
+7~\n<color=0096FF>MTF Operative Keycard</color>
+8~\n<color=003DCA>MTF Captain Keycard</color>
+9~\n<color=003DCA>Facility Manager Keycard</color>
 10~Chaos Insurgency Access Device
 11~O5-level Keycard
 12~Radio
