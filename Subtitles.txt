@@ -13,7 +13,7 @@ SCP-[scp]
 Containment unit unknown.
 Containment Unit \n<color=#0096FF>[designation].</color>
 lost in Decontamination Sequence.
-<color=#0096FF>[current]</color>/\n<color=#DC143C>[max]</color> generators activated.
+<color=#0096FF>[current]</color>/<color=#DC143C>[max]</color> generators activated.
 <split>All generators have been successfully engaged.
 Overcharge in 3... 2... 1...
 Facility is back in operational mode.
