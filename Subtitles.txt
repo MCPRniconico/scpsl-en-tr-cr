@@ -1,4 +1,5 @@
-<color=#ADE0EE>MTF Unit Epsilon-11</color>|<color=#0096FF>[designation]</color>|<color=#DC143C>[count] SCP subjects.</color>
+<color=#ADE0EE>MTF Unit Epsilon-11</color>|<color=#0096FF>[designation]</color>|
+<color=#DC143C>[count] SCP subjects.</color>
 Awaiting re-containment of: 1 SCP subject.
 <color=#008F1E>threat</color>
 Termination cause unspecified.
