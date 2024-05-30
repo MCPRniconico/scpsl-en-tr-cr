@@ -12,7 +12,7 @@
 11~O5-level Keycard
 12~Radio
 13~COM-15
-14\n<color=#FFD800>~First Aid Kit</color>cHeals your injuries.❤️
+14~\n<color=#FFD800>First Aid Kit~</color>cHeals your injuries.❤️
 15~Flashlight~Let there be light!
 16~Micro H.I.D.~Mobile high-intensity electrical discharge thrower.
 17~<color=#FF0000>💊SCP-500💊</color>~The panacea.\n<color=#008000>+100HP</color>
