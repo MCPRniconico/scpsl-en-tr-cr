@@ -1,27 +1,26 @@
-Mobile Task Force Unit Epsilon-11 designated [designation] has entered the facility.<split>All remaining personnel are advised to proceed with standard evacuation protocols until an MTF squad reaches your destination.<split>
-Awaiting re-containment of: [count] SCP subjects.
+<color=#ADE0EE>MTF Unit Epsilon-11</color>|<color=#0096FF>[designation]</color>|<color=#DC143C>[count] SCP subjects.</color>
 Awaiting re-containment of: 1 SCP subject.
-Substantial threat to safety remains within the facility -- exercise caution.
-successfully terminated. Termination cause unspecified.
+<color=#008F1E>threat</color>
+Termination cause unspecified.
 terminated by SCP-[scp].
-successfully terminated by Automatic Security System.
+successfully terminated by Tesla Gate
 successfully terminated by Alpha Warhead.
-contained successfully by Science Personnel.
-contained successfully by Class-D Personnel.
-contained successfully by Chaos Insurgency.
+contained by:<color=#FFFF7F>Science Personnel.</color>
+contained by:<color=#FF8E00>Class-D Personnel.</color>
+contained by:<color=#008F1E>C.Insurgency.</color>
 SCP-[scp]
-contained successfully. Containment unit unknown.
-contained successfully. Containment Unit [designation].
+Containment unit unknown.
+Containment Unit <color=#0096FF>[designation].</color>
 lost in Decontamination Sequence.
-[current] out of [max] generators activated.
+<color=#0096FF>[current]</color>/<color=#DC143C>[max]</color> generators activated.
 <split>All generators have been successfully engaged.
 Overcharge in 3... 2... 1...
 Facility is back in operational mode.
-Attention, all personnel.<split>The Light Containment Zone decontamination process will occur in T-15 minutes.<split>All biological substances must be removed in order to avoid destruction.
-Danger, Light Containment Zone overall decontamination in T-[time] minutes.
-Danger, Light Containment Zone overall decontamination in T-1 minute.
-Danger, Light Containment Zone overall decontamination in T-30 seconds.<split>All checkpoint doors have been permanently opened. Please evacuate immediately.
-Light Containment Zone is locked down and ready for decontamination.<split>The removal of organic substances has now begun.
+LCZ decontamination in<color=#00B379>T-15</color> minutes.
+LCZ decontamination in T-<color=#F4E511>[time]</color> minutes.
+LCZ decontamination in <color=#F58220>T-1</color> minute.
+LCZ decontamination in<color=#ff0000>T-30</color> seconds.
+LCZ is locked down decontamination and ready for decontamination
 ALPHA WARHEAD EMERGENCY DETONATION SEQUENCE ENGAGED.<split>THE UNDERGROUND SECTION OF THE FACILITY WILL BE DETONATED IN T-[time] SECONDS.
 DETONATION CANCELLED. RESTARTING SYSTEMS.
 DETONATION SEQUENCE RESUMED, T-[time] SECONDS.
