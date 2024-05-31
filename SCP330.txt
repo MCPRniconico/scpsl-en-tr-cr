@@ -1,22 +1,22 @@
 🍬Candies🍬
-🍬Rainbow Candy🍬
+<color=#E60012>🍬Ra</color><color=#F39800>in</color><color=#FFF100>bow</color><color=#0068B7> Ca</color><color=#0068B7>nd</color><color=#920783>y🍬</color>
 Its a hard piece of rock candy, packed with all sorts of flavours.
 Grants a large number of small bonuses, including health regeneration, invigoration, and AHP.\<color=#07f72b>+40AHP+15HP</color>
-🍬Yellow Candy🍬
+<color=#F4E511>🍬Yellow Candy🍬
 The overwhelming smell of lemon makes you cringe a little.
 Allows you to move faster and sprint longer for a short period of time.\n<color=#07f72b>Movement speed +10% 8s</color>
-🍬Purple Candy🍬
+<color=#6F51A1>🍬Purple Candy🍬
 It has a juicy grape smell. Your mouth begins to water.
 Grants temporary resistance to damage and slowly regenerates health.\n<color=#07f72b>15秒間 40HPDamage Resistance+15hp</color>
-🍬Red Candy🍬
+<color=#0096FF>🍬Red Candy🍬</color>」
 A strong scent of cherry fills the room. It’s a bit... <i>too</i> strong.
 Quickly restores your health.\n<color=#07f72b>+45hp</color>
-🍬Green Candy🍬
+<color=#007B49>🍬Green Candy🍬</color>
 A nasty, herbal smell emits from the candy.
 Provides a long-lasting regeneration of health and temporary immunity to most status effects.\n<color=#07f72b>80s+120hp</color>
-🍬Blue Candy🍬
+<color=#ADE0EE>🍬Blue Candy🍬</color>
 It smells soft and sweet, something akin to a marshmallow.
 Grants a temporary barrier.\n<color=#07f72b>+30AHP</color>
-🍬Pink Candy🍬
+<color=#F067A6>🍬Pink Candy🍬</color>
 The strawberry scent is as gentle as it looks.
 - R E D A C T E D -
