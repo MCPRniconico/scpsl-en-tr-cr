@@ -2,12 +2,12 @@
 1~Scientist Keycard
 2~Research Supervisor Keycard
 3~Zone Manager Keycard
-4~<color=5B6370>Guard</color>~Keycard
-5~<color=70C3FF>MTF Private</color>~Keycard
+4~GuardKeycard
+5~MTF PrivateKeycard
 6~Containment Engineer Keycard
-7~<color=0096FF>MTF Operative</color>Keycard
-8~<color=003DCA>MTF Captain</color>Keycard
-9~<color=003DCA>Facility Manager Keycard</color>~
+7~MTF OperativeKeycard
+8~MTF CaptainKeycard
+9~Facility Manager Keycard</color>~
 10~Chaos Insurgency Access Device
 11~O5-level Keycard
 12~Radio
@@ -15,11 +15,11 @@
 14~\n<color=#FFD800>First Aid Kit~</color>cHeals your injuries.❤️
 15~Flashlight~Let there be light!
 16~Micro H.I.D.~Mobile high-intensity electrical discharge thrower.
-17~<color=#FF0000>💊SCP-500💊</color>~The panacea.\n<color=#008000>+100HP</color>
+17~<color=#FF0000>💊SCP-500💊</color>~The panacea.\n<color=#008000>+200HP</color>
 18~SCP-207~Harmfully increases motor skills.
-20~MTF-E11-SR
-21~Crossvec
-23~FSP-9
+20~<color=#0096FF>MTF-E11-SR</color>
+21~<color=#70C3FF>Crossvec</color>
+23~<color=#5B6370>FSP-9</color>
 24~Logicer
 25~High-Explosive Grenade~Boom!
 26~Flashbang Grenade~Blinds your enemies.
@@ -27,7 +27,7 @@
 31~SCP-018~Superball able to bounce with extreme efficiency.
 32~SCP-268~When worn, temporarily makes you invisible unless it is interrupted by any user interaction.
 33~<color=#FFD800>💉Adrenaline💉</color>~Temporarily increases endurance. Infinite Stamina 7s
-34~Painkillers~Relieve minor injuries.
+34~<color=#FFD800>Painkillers</color>~Relieve minor injuries. \n<color=#008000>+50HP</color>
 35~Coin~You're not sure why you'd want to carry this around...
 36~Light Armor
 37~Combat Armor
@@ -45,7 +45,7 @@
 49~SCP-1576~Communicate with the dead.
 50~Jailbird~What?!
 51~SCP-207?~Opposite day?
-52~FR-MG-0
+52~<color=003DCA>FR-MG-0</color>
 53~A7
 54~Lantern~A classic oil lantern, inscribed with the name "Daniel".
 55~Snowball
