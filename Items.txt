@@ -20,7 +20,7 @@
 20~<color=#0096FF>MTF-E11-SR</color>
 21~<color=#70C3FF>Crossvec</color>
 23~<color=#5B6370>FSP-9</color>
-24~Logicer
+24<color=#0D7D35>~Logicer</color>
 25~High-Explosive Grenade~Boom!
 26~Flashbang Grenade~Blinds your enemies.
 30~COM-18
@@ -32,10 +32,10 @@
 36~Light Armor
 37~Combat Armor
 38~Heavy Armor
-39~.44 Revolver
-40~AK
-41~Shotgun
-42~Bag of Candies~A bag containing the following candies:
+39~<color=#006826>.44 Revolver</color>
+40~<color=008F1C>AK</color>
+41~<color=#006826>Shotgun</color>
+42~🍬Bag of Candies🍬~A bag containing the following candies:
 43~SCP-2176~Your very own Ghostlight! Caution, very fragile...
 44~SCP-244-A~An ancient vase, freezing to the touch. Creates a large cloud of icy fog when placed.
 45~SCP-244-B~An ancient vase, freezing to the touch. Creates a large cloud of icy fog when placed.
