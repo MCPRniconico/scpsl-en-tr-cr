@@ -11,7 +11,7 @@ contained by:<color=#FF8E00>Class-D Personnel.</color>
 contained by:<color=#008F1E>C.Insurgency.</color>
 <color=#DC143C>SCP-[scp]</color>
 Containment unit unknown.
-Containment Unit \n<color=#0096FF>│[designation].</color>
+Containment Unit <color=#0096FF>│[designation].</color>
 lost in Decontamination Sequence.
 <color=#0096FF>[current]</color>/<color=#DC143C>[max]</color> generators activated.
 <split>All generators have been successfully engaged.
