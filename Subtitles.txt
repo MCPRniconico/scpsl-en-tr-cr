@@ -9,20 +9,20 @@ successfully terminated by Alpha Warhead.
 contained by:\n<color=#FFFF7F>Science Personnel.</color>
 contained by:\n<color=#FF8E00>Class-D Personnel.</color>
 contained by:\n<color=#008F1E>C.Insurgency.</color>
-SCP-[scp]
+<color=#0096FF>SCP-[scp]</color>
 Containment unit unknown.
 Containment Unit \n<color=#0096FF>[designation].</color>
 lost in Decontamination Sequence.
 <color=#0096FF>[current]</color>/<color=#DC143C>[max]</color> generators activated.
 <split>All generators have been successfully engaged.
 Overcharge in 3... 2... 1...
-Facility is back in operational mode.
-LCZ decontamination in<color=#00B379>T-15</color> minutes.
-LCZ decontamination in T-<color=#F4E511>[time]</color> minutes.
-LCZ decontamination in <color=#F58220>T-1</color> minute.
-LCZ decontamination in <color=#ff0000>T-30</color> seconds.
-LCZ is locked down decontamination and ready for decontamination
-ALPHA WARHEAD EMERGENCY DETONATION SEQUENCE ENGAGED.<split>THE UNDERGROUND SECTION OF THE FACILITY WILL BE DETONATED IN T-[time] SECONDS.
+<color=#92D7E7>Facility is back in operational mode.</color>
+<color=#F58220>Attention</color> Light Containment Zone <color=#9DD29C>decontamination</color> in<color=#00B379>T-15</color> minutes.
+Light Containment Zone <color=#9DD29C>decontamination</color> in T-<color=#F4E511>[time]</color> minutes.
+Light Containment Zone <color=#9DD29C>decontamination</color> in <color=#F58220>T-1</color> minute.
+Light Containment Zone <color=#9DD29C>decontamination</color> in <color=#ff0000>T-30</color> seconds.
+Light Containment Zone is locked down decontamination and ready for decontamination
+<color=#0096FF>ALPHA WARHEAD EMERGENCY DETONATION SEQUENCE ENGAGED</color>.WILL BE DETONATED IN T-[time] SECONDS.
 DETONATION CANCELLED. RESTARTING SYSTEMS.
-DETONATION SEQUENCE RESUMED, T-[time] SECONDS.
+<color=#0096FF>DETONATION SEQUENCE RESUMED</color>, T-[time] SECONDS.
 terminated by Marshmallow Man.
