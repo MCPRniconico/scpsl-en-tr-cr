@@ -26,7 +26,7 @@
 30~<color=#70C3FF>COM-18</color>
 31~<color=#FF0000>SCP-018</color>~Superball able to bounce with extreme efficiency.
 32~SCP-268~When worn, temporarily makes you invisible unless it is interrupted by any user interaction.
-33~<color=#FFD800>💉Adrenaline💉</color>~Temporarily increases endurance. Infinite Stamina 7s
+33~<color=#FFD800>💉Adrenaline💉</color>~Temporarily increases endurance. Infinite Stamina 7s \n<color=#008000>+40ahp</color> 
 34~<color=#FFD800>Painkillers</color>~Relieve minor injuries. \n<color=#008000>+50HP</color>
 35~Coin~You're not sure why you'd want to carry this around...
 36~Light Armor
