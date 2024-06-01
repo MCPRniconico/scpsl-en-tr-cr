@@ -7,8 +7,8 @@ The escaped subjects have overrun the facility. Emergency response has been scra
 All threats to safety have been neutralized. Site-02 is secure once again.
 Foundation presence has been exterminated. Operatives standing by for further orders.
 Site-02 is under certain control, but not without cost. The victor is undetermined.
-[summary_d_escaped] <color=#FF8E00>class-d<color> escaped
-[summary_s_escaped] <color=#FFFF7C>scientist(s)<color> survived
+[summary_d_escaped] <color=#FF8E00>class-d</color> escaped
+[summary_s_escaped] <color=#FFFF7C>scientist(s)</color> survived
 The Alpha Warhead's detonation terminated [summary_warhead_kills] beings.
 The Alpha Warhead was not detonated during this mission.
 The mission took [summary_round_minutes] minutes and [summary_round_seconds] seconds.
