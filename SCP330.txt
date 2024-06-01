@@ -8,7 +8,7 @@ Allows you to move faster and sprint longer for a short period of time.\n<color=
 <color=#6658A6>🍬Purple Candy🍬
 It has a juicy grape smell. Your mouth begins to water.
 Grants temporary resistance to damage and slowly regenerates health.\n<color=#07f72b>15秒間 40HPDamage Resistance+15hp</color>
-<color=#F30100>🍬Red Candy🍬</color>」
+<color=#F30100>🍬Red Candy🍬</color>
 A strong scent of cherry fills the room. It’s a bit... <i>too</i> strong.
 Quickly restores your health.\n<color=#07f72b>+45hp</color>
 <color=#00633A>🍬Green Candy🍬</color>
