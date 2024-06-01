@@ -13,7 +13,7 @@
 12~<color=#5B6370>📻Radio📻</color>
 13~<color=#5B6370>COM-15</color>
 14~\n<color=#FFD800>First Aid Kit~</color>cHeals your injuries.❤️\n<color=#008000>+65HP</color>
-15~Flashlight~Let there be light!
+15~Flashlight~Let there be light!！
 16~Micro H.I.D.~Mobile high-intensity electrical discharge thrower.
 17~<color=#FF0000>💊SCP-500💊</color>~The panacea.\n<color=#008000>+200HP</color>
 18~<color=#ED1A3D>SCP-207</color>~Harmfully increases motor skills.
