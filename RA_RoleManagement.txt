@@ -7,7 +7,7 @@ NTF Specialist
 SCP-049
 Scientist
 SCP-079
-Chaos Conscript
+C.I Conscript
 SCP-096
 SCP-049-2
 NTF Sergeant
@@ -17,8 +17,8 @@ Tutorial
 Facility Guard
 SCP-939
 Custom Role
-Chaos Rifleman
-Chaos Marauder
-Chaos Repressor
+C.I Rifleman
+C.I Marauder
+C.I Repressor
 Overwatch
 Filmmaker
