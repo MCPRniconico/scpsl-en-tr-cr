@@ -2,16 +2,16 @@ SCP-173
 D Class
 Spectator
 SCP-106
-Nine-Tailed Fox Specialist
+NTF Specialist
 SCP-049
 Scientist
 SCP-079
 C.I Conscript
 SCP-096
 SCP-049-2
-Nine-Tailed Fox Sergeant
-Nine-Tailed Fox Captain
-Nine-Tailed Fox Private
+NTF Sergeant
+NTF Captain
+NTF Private
 Tutorial
 Facility Guard
 SCP-939
