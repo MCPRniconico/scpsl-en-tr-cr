@@ -21,7 +21,7 @@ Overcharge in 3... 2... 1...
 Light Containment Zone <color=#9DD29C>decontamination</color> in T-<color=#F4E511>[time]</color> minutes.
 Light Containment Zone <color=#9DD29C>decontamination</color> in <color=#F58220>T-1</color> minute.
 Light Containment Zone <color=#9DD29C>decontamination</color> in <color=#ff0000>T-30</color> seconds.
-Light Containment Zone is locked down decontamination and ready for decontamination
+<color=#ff0000>Light Containment Zone is locked down</color> decontamination and ready for decontamination
 <color=#DC143C>ALPHA WARHEAD EMERGENCY DETONATION SEQUENCE ENGAGED</color>.WILL BE DETONATED IN T-[time] SECONDS.
 <color=#DC143C>DETONATION CANCELLED</color>. RESTARTING SYSTEMS.
 <color=#DC143C>DETONATION SEQUENCE RESUMED</color>, T-[time] SECONDS.
