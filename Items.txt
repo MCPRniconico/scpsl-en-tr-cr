@@ -12,22 +12,22 @@
 11~O5-level Keycard
 12~<color=#5B6370>📻Radio📻</color>
 13~<color=#5B6370>COM-15</color>
-14~\n<color=#FFD800>First Aid Kit~</color>cHeals your injuries.❤️\n<color=#008000>+65HP</color>
+14~\n<color=#FFD800>❤️First Aid Kit❤️~</color>cHeals your injuries.❤️\n<color=#008000>+65HP</color>
 15~Flashlight~Let there be light!！
-16~Micro H.I.D.~Mobile high-intensity electrical discharge thrower.
+16~⚡Micro H.I.D⚡.~Mobile high-intensity electrical discharge thrower.
 17~<color=#FF0000>💊SCP-500💊</color>~The panacea.\n<color=#008000>+200HP</color>
 18~<color=#ED1A3D>SCP-207</color>~Harmfully increases motor skills.
 20~<color=#0096FF>MTF-E11-SR</color>
 21~<color=#70C3FF>Crossvec</color>
 23~<color=#5B6370>FSP-9</color>
 24~<color=#0D7D35>Logicer</color>
-25~High-Explosive Grenade~Boom!
+25~High-💣Explosive Grenade💣~Boom!
 26~Flashbang Grenade~Blinds your enemies.
 30~<color=#70C3FF>COM-18</color>
 31~<color=#FF0000>SCP-018</color>~Superball able to bounce with extreme efficiency.
 32~SCP-268~When worn, temporarily makes you invisible unless it is interrupted by any user interaction.
 33~<color=#FFD800>💉Adrenaline💉</color>~Temporarily increases endurance. Infinite Stamina 7s \n<color=#008000>+40ahp</color> 
-34~<color=#FFD800>Painkillers</color>~Relieve minor injuries. \n<color=#008000>+50HP</color>
+34~<color=#FFD800>💊Painkillers💊</color>~Relieve minor injuries. \n<color=#008000>+50HP</color>
 35~Coin~You're not sure why you'd want to carry this around...
 36~Light Armor
 37~Combat Armor
