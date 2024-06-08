@@ -21,7 +21,7 @@
 21~<color=#70C3FF>Crossvec</color>
 23~<color=#5B6370>FSP-9</color>
 24~<color=#0D7D35>Logicer</color>
-25~High-💣Explosive Grenade💣~Boom!
+25~💣High-Explosive Grenade💣~Boom!
 26~Flashbang Grenade~Blinds your enemies.
 30~<color=#70C3FF>COM-18</color>
 31~<color=#FF0000>SCP-018</color>~Superball able to bounce with extreme efficiency.
