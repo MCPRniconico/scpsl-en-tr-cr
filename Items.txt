@@ -16,7 +16,7 @@
 15~Flashlight~Let there be light!！
 16~⚡Micro H.I.D⚡.~Mobile high-intensity electrical discharge thrower.
 17~<color=#FF0000>💊SCP-500💊</color>~The panacea.\n<color=#008000>+200HP</color>
-18~<color=#ED1A3D>SCP-207</color>~Harmfully increases motor skills.
+18~<color=#ED1A3D>💔SCP-207💔</color>~Harmfully increases motor skills.
 20~<color=#0096FF>MTF-E11-SR</color>
 21~<color=#70C3FF>Crossvec</color>
 23~<color=#5B6370>FSP-9</color>
