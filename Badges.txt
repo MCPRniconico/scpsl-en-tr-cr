@@ -43,7 +43,7 @@ NW Feedback Coordinator
 NW Verification Supervisor
 SCP:SL Official Server Supervisor
 NW Feedback Supervisor
-NW Verification Manager
+Northwood Verification Manager
 NW Bot Manager
 NW Translation Manager
 SCP:SL Game Design Manager
