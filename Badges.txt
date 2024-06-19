@@ -1,17 +1,17 @@
 Northwood Chief Executive Officer
-Northwood Chief Information Officer
-Northwood Chief Operations Officer
-Northwood Community Director
-Northwood Discord Manager
-Northwood Executive Assistant
-Northwood Feedback Manager
-Northwood Human Resources
-Northwood Human Resources Director
-Northwood Marketing Platform Manager
-Northwood Staff
-Northwood Steam Manager
-Northwood System Administrator
-Northwood Wiki Manager
+NW Chief Information Officer
+NW Chief Operations Officer
+NW Community Director
+NW Discord Manager
+NW Executive Assistant
+NW Feedback Manager
+NW Human Resources
+NW Human Resources Director
+NW Marketing Platform Manager
+NW Staff
+NW Steam Manager
+NW System Administrator
+NW Wiki Manager
 SCP:SL Art Manager
 SCP:SL Art Supervisor
 SCP:SL Artist
@@ -33,51 +33,51 @@ SCP:SL Quality Assurance Manager
 SCP:SL Sound Designer
 SCP:SL Game Director
 SCP:SL Official Server Manager
-Northwood Verification Specialist
+NW Verification Specialist
 SCP:SL Anti-Cheat Developer
 SCP:SL Quality Assurance Tester
 SCP:SL Quality Assurance Supervisor
 SCP:SL Twitch Subscriber
 SCP:SL Audio Manager
-Northwood Feedback Coordinator
-Northwood Verification Supervisor
+NW Feedback Coordinator
+NW Verification Supervisor
 SCP:SL Official Server Supervisor
-Northwood Feedback Supervisor
-Northwood Verification Manager
-Northwood Bot Manager
-Northwood Translation Manager
+NW Feedback Supervisor
+NW Verification Manager
+NW Bot Manager
+NW Translation Manager
 SCP:SL Game Design Manager
 SCP:SL Animator
-Northwood Public Relations Director
+NW Public Relations Director
 SCP:SL Community Helper
 SCP:SL Voice Actor
 SCP:SL Foundation Investor
 Northwood Studio Director
 SCP:SL Assistant Game Director
-Northwood Tech Support Supervisor
-Northwood Tech Support Manager
-Northwood System Administration Manager
+NW Tech Support Supervisor
+NW Tech Support Manager
+NW System Administration Manager
 SCP:SL Narrative Designer
-Northwood Marketing Platform Supervisor
+NW Marketing Platform Supervisor
 SCP:SL Audio Technical Lead
-Northwood Translation Coordinator
-Northwood Security Director
-Northwood Security Advisor
-Northwood Assistant Security Director
+NW Translation Coordinator
+NW Security Director
+NW Security Advisor
+NW Assistant Security Director
 Assistant Public Relations Director
 Assistant Community Management Director
 Assistant Human Resources Director
 SCP:SL Game Design Supervisor
 SCP:SL Level Designer Supervisor
 SCP:SL Global Moderation Supervisor
-Northwood System Administration Supervisor
-Northwood Web Development Supervisor 
-Northwood Web Development Manager
-Northwood Content Supervisor 
-Northwood Content Manager
-Northwood Patreon Supervisor
-Northwood Patreon Manager
-Northwood Social Media Supervisor 
-Northwood Social Media Manager 
-Northwood Translation Supervisor
-Northwood Steam Supervisor
+NW System Administration Supervisor
+NW Web Development Supervisor 
+NW Web Development Manager
+NW Content Supervisor 
+NW Content Manager
+NW Patreon Supervisor
+NW Patreon Manager
+NW Social Media Supervisor 
+NW Social Media Manager 
+NW Translation Supervisor
+NW Steam Supervisor
