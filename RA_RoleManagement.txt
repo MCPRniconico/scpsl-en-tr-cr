@@ -3,16 +3,16 @@ SCP-173
 Class-D
 Spectator
 SCP-106
-NTF Specialist
+MTFUnit Specialist
 SCP-049
 Scientist
 SCP-079
 C.I Conscript
 SCP-096
 SCP-049-2
-NTF Sergeant
-NTF Captain
-NTF Private
+MTFUnit Sergeant
+MTFUnit Captain
+MTFUnit Private
 Tutorial
 Facility Guard
 SCP-939
