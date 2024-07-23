@@ -1,46 +1,46 @@
-None~Default option with no effects.
-Iron Sights~A pair of alignment markers making up a simple, lightweight sighting device.
-Dot Sight~Non-magnifying reflex sight with a small illuminated dot indicating the point of aim.
-Holographic Sight~Non-magnifying sight with a holographic reticle. Effective in close-quarters combat.
-Night-Vision Scope~Telescopic sight augmented with a night-vision device. Heavy, but effective in all lighting conditions.
-Ammo Counter Sight~Iron sights with integrated ammunition counting device.
-Telescopic Sight~Heavy sighting device, providing optical magnification. Perfect for long-range, but limits the overall perception.
-Standard Stock~Regular stock, providing better control of the firearm when aiming down the sights.
-Extended Stock~Provides better control of the firearm when aiming down the sights, but increases the equipping time.
-Retracted Stock~Makes the firearm more compact, which increases mobility.
-Lightweight Stock~Reduces the weight of the firearm but makes it harder to control the recoil when aiming down the sights.
-Heavy Stock~Increased weight lowers mobility but makes the firearm more stable when aiming down the sights.
-Recoil-Reducing Stock~Stock equipped with a system that attempts to disperse force between individual shots.
-Foregrip~Vertical forward grip. Makes it easier to handle the muzzle rise.
-Laser Sight~Provides visual reference point onto the target, which helps in hip-firing but can easily reveal your position.
-Flashlight~Toggleable light source. Increases total weight of the firearm but can be life-saving in dark areas.
-Ammo Counter~Ammunition counting device. Experimental technology that has proven to be useful, especially with high-capacity magazines.
-Standard Barrel~Conventional barrel with no muzzle device.
-Extended Barrel~Improves the overall firepower, but contributes to low mobility caused by increased weight and length.
-Suppressor~Sound moderator. Reduces the loudness of gunshots, but increases the overall weight and length of the firearm.
-Flash Hider~Eliminates muzzle flash. Makes it easier to shoot in the darkness.
-Muzzle Brake~Recoil compensator. Uses propellant gases to reduce recoil, but increases the acoustic intensity of gunshots.
-Muzzle Booster~Improves fire rate, which results in more damage per second, but the weapon is harder to control.
-FMJ Magazine~Standard magazine that contains full metal jacket bullets.
-AP Magazine~Standard magazine that contains armor-piercing bullets.
-JHP Magazine~Standard magazine that contains hollow-point bullets.
-Extended FMJ Magazine~Extended magazine that contains full metal jacket bullets.
-Extended AP Magazine~Extended magazine that contains armor-piercing bullets.
-Extended JHP Magazine~Extended magazine that contains hollow-point bullets.
-FMJ Drum~High-capacity drum magazine that contains full metal jacket bullets.
-AP Drum~High-capacity drum magazine that contains armor-piercing bullets.
-JHP Drum~High-capacity drum magazine that contains hollow-point bullets.
-Low-Cap FMJ Magazine~Low-capacity magazine that contains full metal jacket bullets.
-Low-Cap AP Magazine~Low-capacity magazine that contains armor-piercing bullets.
-Low-Cap JHP Magazine~Low-capacity magazine that contains hollow-point bullets.
-4-Shot Cylinder~Holds fewer cartridges but is capable of dealing increased damage to armored enemies.
-6-Shot Cylinder~The classic six-shooter.
-8-Shot Cylinder~Holds more cartridges, but the heavier trigger pull requires more time to perform accurate shots.
-Carbine Receiver~Regular carbine upper receiver that is considered a great compromise between firepower and mobility.
-Rifle Receiver~Full-size upper receiver improves firepower and accuracy, but a heavier gas system reduces the fire rate.
-Short Barrel~Shortened version of the standard barrel, used to improve draw speed and mobility.
-Choke~Increases total radius of spread but improves the consistency of the pattern.
-Extended Barrel~Slightly reduces the spread radius but increases the total firearm weight and length.
-No Stock~Short configurations come with high mobility, but removing stocks from a high-recoil rifle isn't always the best idea.
-Single-Shot System~Standard system. One trigger-pull leads to one discharge.
-Double-Shot System~Modified trigger mechanism which actuates both sears with a single pull.
+なし~何の効果もないデフォルトのオプション。
+アイアンサイト~一組のアライメントマーカーで構成されるシンプルで軽量な照準器。
+ドットサイト~照準点を示す小さな照光ドットが付いた倍率のないリフレックスサイト。
+ホログラフィック・サイト~ホログラフィック・レティクルが付いた非倍率照準器。近接戦闘に有効。
+ナイトビジョンスコープ~暗視装置を装備したテレスコピックサイト。重いが、あらゆる照明条件下で有効。
+弾数カウンターサイト~弾薬計測装置一体型のアイアンサイト。
+高倍率スコープ~光学倍率の高い重量のある照準器。長距離射撃に最適だが、近距離の視界が狭まる。
+標準ストック~ADS時のリコイルコントロールがしやすくなる。
+拡張ストック~ADS時のリコイルコントロールが良くなるが、銃器の取り出しに時間がかかる。
+ストックを収納~銃器をよりコンパクトにし、機動性を高める。
+軽量ストック~銃器の重量が軽くなるが、ADS時の反動をコントロールしにくくなる。
+重量ストック~重量が増すと機動性は落ちるが、照準が合った時の安定性が増す。
+反動軽減ストック~射撃のたびに力を分散させるシステムが装備されたストック。
+垂直グリップ~射撃時の反動を制御しやすくする。
+レーザーサイト~標的を照準するためのもので、腰だめ射撃に役立つが、位置が特定されやすい。
+フラッシュライト~切り替え可能な光源。銃器の総重量は増加するが、暗闇で役立つ。
+弾薬カウンター~弾薬計測装置。実験的な技術で、特に大容量弾倉に有効であることが立証されている。
+標準バレル~銃口装置がない通常のバレル。
+拡張バレル~全体的な火力は向上するが、重量と長さの増加により機動性の低下を招く。
+サプレッサー~消音装置。銃声を軽減するが、銃器全体の重量と長さが増加する。
+銃口消炎器~マズルフラッシュを無くす。暗闇でも撃ちやすくなる。
+銃口制退器~反動補正装置。推進ガスで反動を抑えるが、銃声が大きくなる。
+マズルブースター~発射速度が向上し、1秒あたりのダメージ（DPM）が増えるが、リコイルコントロールが難しくなる。
+FMJ弾倉~フルメタルジャケット弾が装填される標準的な弾倉。
+AP弾倉~徹甲弾が装填される標準的な弾倉。
+JHP弾倉~ホローポイント弾が装填される標準的な弾倉。
+拡張FMJ弾倉~フルメタルジャケット弾が収納可能な拡張弾倉。
+拡張AP弾倉~徹甲弾が収納可能な拡張弾倉。
+拡張JHP弾倉~ホローポイント弾を収納する拡張弾倉。
+FMJドラム~フルメタルジャケット弾を収納する大容量ドラム弾倉。
+APドラム~徹甲弾が収納可能な大容量ドラム弾倉。
+JHPドラム~ホローポイント弾が収納可能な大容量ドラム弾倉。
+軽量FMJ弾倉~フルメタルジャケット弾が収納可能な低容量の弾倉。
+軽量AP弾倉~徹甲弾が収納可能な低容量の弾倉。
+軽量JHP弾倉~ホローポイント弾を装填する低容量の弾倉。
+4発シリンダー~装甲を持つ敵に対してより高いダメージを与えることができる。
+6発シリンダー~クラシックな6連射弾倉。
+8発シリンダー~装弾数は多いが、トリガーが重いため、正確な射撃を行うには時間がかかる。
+カービンレシーバー~火力と機動性のバランスが取れたアッパーレシーバー。
+ライフルレシーバー~フルサイズのアッパーレシーバーは火力と命中精度を向上させるが、より重いガスシステムは発射速度を低下させる。
+短縮バレル~標準バレルを短くしたもので、発射速度と機動性を向上させるために使用される。
+チョーク~拡散半径が大きくなるが、パターンの安定性が向上する。
+拡張バレル~拡散半径をわずかに減少させるが、銃器全体の重量と長さが増加する。
+ストックなし~短い銃身は機動性が高いが、高反動ライフルからストックを外すのは必ずしもよい考えとは言えない。
+単発式~標準的なシステム。トリガーを1回引くと1発発射される。
+ダブル・ショット・システム~トリガーを一回引くだけで 2発弾が発射される。
