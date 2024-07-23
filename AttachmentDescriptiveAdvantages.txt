@@ -1,4 +1,4 @@
-Light Source
-Ammo Counter
-Flash Suppression
-Night Vision
+光源
+弾薬カウンター
+フラッシュ抑制
+ナイトビジョン
