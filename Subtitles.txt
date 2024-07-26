@@ -1,7 +1,7 @@
 <color=#ADE0EE>MTF Unit Epsilon-11</color>|<color=#0096FF>[designation]</color>|
 <color=#DC143C>[count] SCP subjects.</color>
 <color=#DC143C>1 SCP subjects.</color>
-<color=#008F1E>threat</color>
+<color=#008F1E>exercise caution.</color>
 Termination cause unspecified.
 terminated by SCP-[scp].
 successfully terminated by Tesla Gate
