@@ -45,7 +45,7 @@
 49~SCP-1576~Communicate with the dead.
 50~<color=#FFF100>Jailbird</color>
 ~What?!
-51~<color=#F067A6>SCP-207?</color>~Opposite day?
+51~<color=#F067A6>SCP-207?</color>~
 52~<color=#003DCA>FR-MG-0</color>
 53~<color=#008F1C>A7</color>
 54~Lantern~A classic oil lantern, inscribed with the name "Daniel".
