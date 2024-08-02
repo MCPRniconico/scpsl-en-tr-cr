@@ -33,7 +33,7 @@
 37~Combat Armor
 38~Heavy Armor
 39~<color=#066328>.44 Revolver</color>
-40~<color=#008F1C>AK</color>
+40~<color=#008F1C>A</color><color=#559101>K</color>
 41~<color=#066328>Shotgun</color>
 42~🍬Bag of Candies🍬~A bag containing the following candies:
 43~SCP-2176~Your very own Ghostlight! Caution, very fragile...
