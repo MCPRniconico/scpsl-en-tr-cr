@@ -17,67 +17,67 @@ SCP:SL Art Supervisor
 SCP:SL Artist
 SCP:SL Backend Programmer
 SCP:SL Backend Programming Manager
-SCP:SL Developer
-SCP:SL Event Winner
-SCP:SL Fullstack Programmer
-SCP:SL Game Designer
-SCP:SL Gameplay Programmer
-SCP:SL Global Moderation Manager
-SCP:SL Global Moderator
-SCP:SL Lead Game Designer
-SCP:SL Lead Gameplay Programmer
-SCP:SL Level Designer
-SCP:SL Partner
-SCP:SL 
-SCP:SL Quality Assurance Manager
-SCP:SL Sound Designer
-SCP:SL Game Director
-SCP:SL Official Server Manager
-NW Verification Specialist
-SCP:SL Anti-Cheat Developer
-SCP:SL Quality Assurance Tester
-SCP:SL Quality Assurance Supervisor
-SCP:SL Twitch Subscriber
-SCP:SL Audio Manager
-NW Feedback Coordinator
-NW Verification Supervisor
-SCP:SL Official Server Supervisor
-NW Feedback Supervisor
-Northwood Verification Manager
-NW Bot Manager
-NW Translation Manager
-SCP:SL Game Design Manager
-SCP:SL Animator
-NW Public Relations Director
-SCP:SL Community Helper
-SCP:SL Voice Actor
-SCP:SL Foundation Investor
-Northwood Studio Director
-SCP:SL Assistant Game Director
-NW Tech Support Supervisor
-NW Tech Support Manager
-NW System Administration Manager
-SCP:SL Narrative Designer
-NW Marketing Platform Supervisor
-SCP:SL Audio Technical Lead
-NW Translation Coordinator
-NW Security Director
-NW Security Advisor
-NW Assistant Security Director
-Assistant Public Relations Director
-Assistant Community Management Director
+SCP:SL デベロッパー
+SCP:SL イベント優勝者
+SCP:SL 総合プログラマー
+SCP:SL ゲームデザイナー
+SCP:SL ゲームプレイプログラマー
+SCP:SL グローバルモデレーターマネージャー
+SCP:SL グローバルモデレーター
+SCP:SL リードゲームデザイナー
+SCP:SL リードゲームプレイプログラマー
+SCP:SL レベルデザイナー
+SCP:SL パートナー
+SCP:SL パトロンサポーター
+SCP:SL 品質保証マネージャー
+SCP:SL サウンドデザイナー
+SCP:SL ゲーム監督者
+SCP:SL 公式サーバーマネージャー
+Northwood 検証スペシャリスト
+SCP:SL アンチチート開発者
+SCP:SL 品質保証テスター
+SCP:SL 品質保証スーパーバイザー
+SCP:SL Twitch加入者
+SCP:SL オーディオマネージャー
+Northwood フィードバック・コーディネーター
+Northwood 検証スーパーバイザー
+SCP:SL 公式サーバー管理者
+Northwood フィードバックスーパーバイザー
+Northwood 検証マネージャー
+Northwood ボットマネージャー
+Northwood 翻訳マネージャー
+SCP:SL ゲームデザインマネージャー
+SCP:SL アニメーター
+Northwood 広報監督者
+SCP:SL コミュニティヘルパー
+SCP:SL 声優
+SCP:SL 財団支援者
+Northwood スタジオ監督者
+SCP:SL アシスタントゲーム監督者 
+Northwood 技術サポートスーパーバイザー
+Northwood 技術サポートマネージャー
+Northwood システム管理マネージャー
+SCP:SL ストーリーデザイナー
+Northwood マーケティングプラットフォーム スーパーバイザー
+SCP:SL 音響技術リード
+Northwood 翻訳コーディネーター
+Northwood セキュリティディレクター
+Northwood セキュリティアドバイザー
+Northwood セキュリティディレクターアドバイザー
+広報部門副部長
+コミュニティ管理部門副部長
 Assistant Human Resources Director
-SCP:SL Game Design Supervisor
-SCP:SL Level Designer Supervisor
-SCP:SL Global Moderation Supervisor
-NW System Administration Supervisor
-NW Web Development Supervisor 
-NW Web Development Manager
-NW Content Supervisor 
-NW Content Manager
-NW Patreon Supervisor
-NW Patreon Manager
-NW Social Media Supervisor 
-NW Social Media Manager 
-NW Translation Supervisor
-NW Steam Supervisor
+SCP:SL ゲームデザイン監督
+SCP:SL レベルデザイナー監督
+SCP:SL グローバルモデレーション監督
+Northwood システム管理監督
+Northwood Web開発監督 
+Northwood Web開発マネージャー
+Northwood コンテンツ監督
+Northwood コンテンツマネージャー
+Northwood Patreon 監督
+Northwood Patreon マネージャー
+Northwood ソーシャルメディア監督
+Northwood ソーシャルメディアマネージャー 
+Northwood 翻訳監督
+Northwood Steam 監督
