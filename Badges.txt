@@ -64,9 +64,9 @@ Northwood 翻訳コーディネーター
 Northwood セキュリティディレクター
 Northwood セキュリティアドバイザー
 Northwood セキュリティディレクターアドバイザー
-広報部門副部長
-コミュニティ管理部門副部長
-Assistant Human Resources Director
+アシスタント広報部長
+アシスタントコミュニティ管理部長
+アシスタント人事部長
 SCP:SL ゲームデザイン監督
 SCP:SL レベルデザイナー監督
 SCP:SL グローバルモデレーション監督
